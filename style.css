@@ -1,0 +1,13 @@
+img{
+    max-width: 100%;
+}
+.picture img{
+    width: 250px;
+}
+a{
+    color: blue;
+}
+.nav a{
+    float: left;
+    margin-left: 10px;
+}
